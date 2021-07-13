@@ -1,5 +1,4 @@
 # Greg
-#### A mildly sarcastic personal DJ
 
 ## Video demo
 To be added...
