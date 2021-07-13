@@ -1,0 +1,6 @@
+# Decisions log
+This is a list to document the design and technology decisions made during development - which choices did I make and why? Ordered chronologically.
+
+## Choice of language
+What: to be determined... 
+Why: to be determined...
